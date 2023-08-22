@@ -1,0 +1,5 @@
+{
+  "imports": {
+    "bitecs": "./public/index.mjs"
+  }
+}
